@@ -1,4 +1,4 @@
 {
-  'prefix': 'a!',
-  'token': bot_token
+  "prefix": "a!",
+  "token": bot_token
 }
