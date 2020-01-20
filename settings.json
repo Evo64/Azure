@@ -1,4 +1,4 @@
 {
   "prefix": "a!",
-  "token": "${{ secrets.bot_token }}"
+  "token": ${{ toJSON(secrets.bot_token) }}
 }
